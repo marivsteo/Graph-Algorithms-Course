@@ -6,6 +6,7 @@ Assignments for labs 1-4 were made on the same project, graphs1. The following p
 4. Given a graph with costs, does the following:
   
   ·verify if the corresponding graph is a DAG and performs a topological sorting using the algorithm based on predecessor counters;
+  
   ·if it is a DAG, finds a highest cost path between two given vertices, in O(m+n).
   
 For lab 5, the projects graphs2 was made. It solves this problem: Given an undirected graph, find a Hamiltonian cycle (if it exists).
