@@ -9,4 +9,4 @@ Assignments for labs 1-4 were made on the same project, graphs1. The following p
   
       ·if it is a DAG, finds a highest cost path between two given vertices, in O(m+n).
   
-For lab 5, the projects graphs2 was made. It solves this problem: Given an undirected graph, find a Hamiltonian cycle (if it exists).
+For lab 5, the project graphs2 was made. It solves this problem: Given an undirected graph, find a Hamiltonian cycle (if it exists).
